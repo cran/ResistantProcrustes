@@ -1,0 +1,16 @@
+Package: ResistantProcrustes
+Title: Resistant Procrustes Methods for Multivariate Data
+Version: 0.1.1
+Authors@R: 
+    person("Xiaozhuo", "Tang", , "xiaozhuot@mun.ca", role = c("aut", "cre"))
+Imports: gllvm, fBasics, gtools
+Description: Provides resistant alternatives to the standard Procrustes analysis for comparing multivariate datasets, including seven resistant Procrustean methods and their associated permutation tests, as well as the standard Procrustes analysis and its permutation tests. Methods are based on Tang and Jackson (2026) "Improving and evaluating resistant alternatives to Procrustes analysis for multivariate dataset matching" <doi:10.1002/env.70073>.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Config/roxygen2/version: 8.1.0
+NeedsCompilation: no
+Packaged: 2026-09-30 19:57:29 UTC; xiaozhuotang
+Author: Xiaozhuo Tang [aut, cre]
+Maintainer: Xiaozhuo Tang <xiaozhuot@mun.ca>
+Repository: CRAN
+Date/Publication: 2026-10-10 11:30:19 UTC
